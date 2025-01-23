@@ -4,15 +4,16 @@
 
 ## 🔧 Technologies & Skills:
 - **Languages**: Java, Python, C, Kotlin
-- **Frameworks**: Android Development, Object-Oriented Programming
+- **Frameworks**: Android Development, Object-Oriented Programming, React Native
 - **Tools**: Git, SQL, Bash, IntelliJ IDEA, Linux
 - **Principles**: SOLID, Design Patterns
 
 ## 🚀 Featured Projects:
+- **[Programming Language Interpreter](https://github.com/Gutismall/Programing-Language)**: A custom language interpreter built in Python.
+- **[Embedded System Project](https://github.com/Gutismall/Microcontroller-Embedded-System-)**: embedded system designed for the PIC32 microcontroller.
+- **[WorkSlateApp](https://github.com/Gutismall/Workslate)**: mobile application designed to enhance workplace productivity
 - **[League Management Project](https://github.com/Gutismall/League-Management-Project)**: A system for managing league teams and tournaments (C).
 - **[Exam Project](https://github.com/Gutismall/Exam_Project)**: A tool to generate and manage exam data using Java and MySQL.
-- **[Programming Language Interpreter](https://github.com/Gutismall/Programing-Language)**: A custom language interpreter built in Python.
-- **[Rocket Lane Game](https://github.com/Gutismall/Rocket_Lane_Game)**: A Kotlin-based game for Android.
 
 ## 📫 Let's Connect:
 Feel free to check out my repositories or reach out for collaboration!
