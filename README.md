@@ -8,7 +8,7 @@
 - **Tools**: Git, SQL, Bash, Linux
 
 ## 🚀 Featured Projects:
-- **[MarketSDK](https://github.com/Gutismall/MarketSDK)**: fullstack system with android sdk that give the developer the ability to add markets to his applictions
+- **[MarketSDK](https://github.com/Gutismall/MarketSDK)**: fullstack system with android sdk that gives the developer the ability to add markets to his applictions
 - **[WorkSlateApp](https://github.com/Gutismall/Workslate)**: mobile application designed to enhance workplace productivity
 - **[Programming Language Interpreter](https://github.com/Gutismall/Programing-Language)**: A custom language interpreter built in Python.
 - **[Embedded System Project](https://github.com/Gutismall/Microcontroller-Embedded-System-)**: embedded system designed for the PIC32 microcontroller.
