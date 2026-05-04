@@ -1,12 +1,18 @@
-# Hi there, I'm Ari Guterman! 👋
+# Ari Guterman | Software Engineer
 
-👨‍💻 I'm a Software Engineering student at Afeka Academic College of Engineering, with a keen interest in backend and full stack development. I have experince in many technolgies from DevOps tool and full stack apps.
-## 🔧 Technologies & Skills:
-- **Languages**: Java, Python, C, Kotlin, TS
-- **Frameworks**: Android Development, Swift, React, Spring boot, next.js
-- **Tools**: Git, SQL, Bash, Linux, K8's, Docker
+Software Engineer specializing in Agentic AI orchestration and autonomous multi-agent workflows . I design scalable event-driven backends (Java, Python, Kafka) to support high-concurrency intelligent chat systems and RAG-based architectures. My focus is on transforming LLMs into deterministic, production-ready solutions through robust observability and cloud-native infrastructure. I bridge the gap between complex backend engineering and the next generation of autonomous AI applications.
 
-## 📫 Let's Connect:
-LinkedIn : https://www.linkedin.com/in/ari-guterman/
+---
 
---- 
+### 🛠️ Technical Toolkit
+
+* **Languages:** Python, Java (Spring Boot), TypeScript (Next.js), C++, Kotlin, Bash
+* **Infrastructure:** Kubernetes (K8s), Docker, Terraform, AWS, Linux
+* **Data:** SQL/NoSQL, Vector Databases
+* **Specialized:** LangGraph/LangChain, n8n.
+
+---
+
+### 📫 Connect & Collaborate
+- **LinkedIn:** [linkedin.com/in/ari-guterman/](https://www.linkedin.com/in/ari-guterman/)
+- **Location:** Ramat Gan, Israel 🇮🇱
