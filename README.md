@@ -15,4 +15,3 @@ Software Engineer specializing in Agentic AI orchestration and autonomous multi-
 
 ### 📫 Connect & Collaborate
 - **LinkedIn:** [linkedin.com/in/ari-guterman/](https://www.linkedin.com/in/ari-guterman/)
-- **Location:** Ramat Gan, Israel 🇮🇱
